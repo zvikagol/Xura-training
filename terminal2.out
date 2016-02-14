@@ -1,0 +1,491 @@
+2.x86_64
+--> Processing Dependency: libasound.so.2(ALSA_0.9.0rc4)(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libasound.so.2(ALSA_0.9)(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: fontconfig for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libpng15.so.15()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libjpeg.so.62()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libgif.so.4()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libasound.so.2()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libXtst.so.6()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libXrender.so.1()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libXi.so.6()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libXext.so.6()(64bit) for package: 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64
+---> Package java-1.8.0-openjdk-headless.x86_64 1:1.8.0.71-2.b15.el7_2 will be installed
+--> Processing Dependency: tzdata-java >= 2015d for package: 1:java-1.8.0-openjdk-headless-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: lksctp-tools for package: 1:java-1.8.0-openjdk-headless-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: jpackage-utils for package: 1:java-1.8.0-openjdk-headless-1.8.0.71-2.b15.el7_2.x86_64
+--> Processing Dependency: libfreetype.so.6()(64bit) for package: 1:java-1.8.0-openjdk-headless-1.8.0.71-2.b15.el7_2.x86_64
+---> Package libX11.x86_64 0:1.6.3-2.el7 will be installed
+--> Processing Dependency: libX11-common >= 1.6.3-2.el7 for package: libX11-1.6.3-2.el7.x86_64
+--> Processing Dependency: libxcb.so.1()(64bit) for package: libX11-1.6.3-2.el7.x86_64
+--> Running transaction check
+---> Package alsa-lib.x86_64 0:1.0.28-2.el7 will be installed
+---> Package fontconfig.x86_64 0:2.10.95-7.el7 will be installed
+--> Processing Dependency: fontpackages-filesystem for package: fontconfig-2.10.95-7.el7.x86_64
+---> Package freetype.x86_64 0:2.4.11-11.el7 will be installed
+---> Package giflib.x86_64 0:4.1.6-9.el7 will be installed
+--> Processing Dependency: libSM.so.6()(64bit) for package: giflib-4.1.6-9.el7.x86_64
+--> Processing Dependency: libICE.so.6()(64bit) for package: giflib-4.1.6-9.el7.x86_64
+---> Package javapackages-tools.noarch 0:3.4.1-11.el7 will be installed
+--> Processing Dependency: python-javapackages = 3.4.1-11.el7 for package: javapackages-tools-3.4.1-11.el7.noarch
+--> Processing Dependency: libxslt for package: javapackages-tools-3.4.1-11.el7.noarch
+---> Package libX11-common.noarch 0:1.6.3-2.el7 will be installed
+---> Package libXext.x86_64 0:1.3.3-3.el7 will be installed
+---> Package libXi.x86_64 0:1.7.4-2.el7 will be installed
+---> Package libXrender.x86_64 0:0.9.8-2.1.el7 will be installed
+---> Package libXtst.x86_64 0:1.2.2-2.1.el7 will be installed
+---> Package libjpeg-turbo.x86_64 0:1.2.90-5.el7 will be installed
+---> Package libpng.x86_64 2:1.5.13-7.el7_2 will be installed
+---> Package libxcb.x86_64 0:1.11-4.el7 will be installed
+--> Processing Dependency: libXau.so.6()(64bit) for package: libxcb-1.11-4.el7.x86_64
+---> Package lksctp-tools.x86_64 0:1.0.13-3.el7 will be installed
+---> Package tzdata-java.noarch 0:2016a-1.el7 will be installed
+---> Package xorg-x11-fonts-Type1.noarch 0:7.5-9.el7 will be installed
+--> Processing Dependency: ttmkfdir for package: xorg-x11-fonts-Type1-7.5-9.el7.noarch
+--> Processing Dependency: ttmkfdir for package: xorg-x11-fonts-Type1-7.5-9.el7.noarch
+--> Processing Dependency: mkfontdir for package: xorg-x11-fonts-Type1-7.5-9.el7.noarch
+--> Processing Dependency: mkfontdir for package: xorg-x11-fonts-Type1-7.5-9.el7.noarch
+--> Running transaction check
+---> Package fontpackages-filesystem.noarch 0:1.44-8.el7 will be installed
+---> Package libICE.x86_64 0:1.0.9-2.el7 will be installed
+---> Package libSM.x86_64 0:1.2.2-2.el7 will be installed
+---> Package libXau.x86_64 0:1.0.8-2.1.el7 will be installed
+---> Package libxslt.x86_64 0:1.1.28-5.el7 will be installed
+---> Package python-javapackages.noarch 0:3.4.1-11.el7 will be installed
+--> Processing Dependency: python-lxml for package: python-javapackages-3.4.1-11.el7.noarch
+---> Package ttmkfdir.x86_64 0:3.0.9-42.el7 will be installed
+---> Package xorg-x11-font-utils.x86_64 1:7.5-20.el7 will be installed
+--> Processing Dependency: libfontenc.so.1()(64bit) for package: 1:xorg-x11-font-utils-7.5-20.el7.x86_64
+--> Processing Dependency: libXfont.so.1()(64bit) for package: 1:xorg-x11-font-utils-7.5-20.el7.x86_64
+--> Running transaction check
+---> Package libXfont.x86_64 0:1.5.1-2.el7 will be installed
+---> Package libfontenc.x86_64 0:1.1.2-3.el7 will be installed
+---> Package python-lxml.x86_64 0:3.2.1-4.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                      Arch    Version                    Repository
+                                                                           Size
+================================================================================
+Installing:
+ java-1.8.0-openjdk-devel     x86_64  1:1.8.0.71-2.b15.el7_2     updates  9.7 M
+Installing for dependencies:
+ alsa-lib                     x86_64  1.0.28-2.el7               base     391 k
+ fontconfig                   x86_64  2.10.95-7.el7              base     228 k
+ fontpackages-filesystem      noarch  1.44-8.el7                 base     9.9 k
+ freetype                     x86_64  2.4.11-11.el7              base     391 k
+ giflib                       x86_64  4.1.6-9.el7                base      40 k
+ java-1.8.0-openjdk           x86_64  1:1.8.0.71-2.b15.el7_2     updates  217 k
+ java-1.8.0-openjdk-headless  x86_64  1:1.8.0.71-2.b15.el7_2     updates   31 M
+ javapackages-tools           noarch  3.4.1-11.el7               base      73 k
+ libICE                       x86_64  1.0.9-2.el7                base      65 k
+ libSM                        x86_64  1.2.2-2.el7                base      39 k
+ libX11                       x86_64  1.6.3-2.el7                base     605 k
+ libX11-common                noarch  1.6.3-2.el7                base     162 k
+ libXau                       x86_64  1.0.8-2.1.el7              base      29 k
+ libXext                      x86_64  1.3.3-3.el7                base      39 k
+ libXfont                     x86_64  1.5.1-2.el7                base     150 k
+ libXi                        x86_64  1.7.4-2.el7                base      40 k
+ libXrender                   x86_64  0.9.8-2.1.el7              base      25 k
+ libXtst                      x86_64  1.2.2-2.1.el7              base      20 k
+ libfontenc                   x86_64  1.1.2-3.el7                base      30 k
+ libjpeg-turbo                x86_64  1.2.90-5.el7               base     134 k
+ libpng                       x86_64  2:1.5.13-7.el7_2           updates  213 k
+ libxcb                       x86_64  1.11-4.el7                 base     189 k
+ libxslt                      x86_64  1.1.28-5.el7               base     242 k
+ lksctp-tools                 x86_64  1.0.13-3.el7               base      87 k
+ python-javapackages          noarch  3.4.1-11.el7               base      31 k
+ python-lxml                  x86_64  3.2.1-4.el7                base     758 k
+ ttmkfdir                     x86_64  3.0.9-42.el7               base      48 k
+ tzdata-java                  noarch  2016a-1.el7                updates  176 k
+ xorg-x11-font-utils          x86_64  1:7.5-20.el7               base      87 k
+ xorg-x11-fonts-Type1         noarch  7.5-9.el7                  base     521 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+30 Dependent packages)
+
+Total download size: 46 M
+Installed size: 156 M
+Downloading packages:
+warning: /var/cache/yum/x86_64/7/base/packages/fontconfig-2.10.95-7.el7.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID f4a80eb5: NOKEY
+Public key for fontconfig-2.10.95-7.el7.x86_64.rpm is not installed
+Public key for java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64.rpm is not installed
+--------------------------------------------------------------------------------
+Total                                               27 MB/s |  46 MB  00:01
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Importing GPG key 0xF4A80EB5:
+ Userid     : "CentOS-7 Key (CentOS 7 Official Signing Key) <security@centos.org>"
+ Fingerprint: 6341 ab27 53d7 8a78 a7c2 7bb1 24c6 a8a7 f4a8 0eb5
+ Package    : centos-release-7-2.1511.el7.centos.2.10.x86_64 (@CentOS)
+ From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : freetype-2.4.11-11.el7.x86_64                               1/31
+  Installing : libfontenc-1.1.2-3.el7.x86_64                               2/31
+  Installing : libICE-1.0.9-2.el7.x86_64                                   3/31
+  Installing : libxslt-1.1.28-5.el7.x86_64                                 4/31
+  Installing : libjpeg-turbo-1.2.90-5.el7.x86_64                           5/31
+  Installing : python-lxml-3.2.1-4.el7.x86_64                              6/31
+  Installing : python-javapackages-3.4.1-11.el7.noarch                     7/31
+  Installing : javapackages-tools-3.4.1-11.el7.noarch                      8/31
+  Installing : libSM-1.2.2-2.el7.x86_64                                    9/31
+  Installing : libXfont-1.5.1-2.el7.x86_64                                10/31
+  Installing : 1:xorg-x11-font-utils-7.5-20.el7.x86_64                    11/31
+  Installing : ttmkfdir-3.0.9-42.el7.x86_64                               12/31
+  Installing : tzdata-java-2016a-1.el7.noarch                             13/31
+  Installing : lksctp-tools-1.0.13-3.el7.x86_64                           14/31
+  Installing : libXau-1.0.8-2.1.el7.x86_64                                15/31
+  Installing : libxcb-1.11-4.el7.x86_64                                   16/31
+  Installing : alsa-lib-1.0.28-2.el7.x86_64                               17/31
+  Installing : libX11-common-1.6.3-2.el7.noarch                           18/31
+  Installing : libX11-1.6.3-2.el7.x86_64                                  19/31
+  Installing : libXext-1.3.3-3.el7.x86_64                                 20/31
+  Installing : libXi-1.7.4-2.el7.x86_64                                   21/31
+  Installing : libXtst-1.2.2-2.1.el7.x86_64                               22/31
+  Installing : giflib-4.1.6-9.el7.x86_64                                  23/31
+  Installing : libXrender-0.9.8-2.1.el7.x86_64                            24/31
+  Installing : fontpackages-filesystem-1.44-8.el7.noarch                  25/31
+  Installing : fontconfig-2.10.95-7.el7.x86_64                            26/31
+  Installing : xorg-x11-fonts-Type1-7.5-9.el7.noarch                      27/31
+  Installing : 2:libpng-1.5.13-7.el7_2.x86_64                             28/31
+  Installing : 1:java-1.8.0-openjdk-headless-1.8.0.71-2.b15.el7_2.x86_6   29/31
+  Installing : 1:java-1.8.0-openjdk-devel-1.8.0.71-2.b15.el7_2.x86_64     30/31
+  Installing : 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64           31/31
+  Verifying  : libXext-1.3.3-3.el7.x86_64                                  1/31
+  Verifying  : python-javapackages-3.4.1-11.el7.noarch                     2/31
+  Verifying  : giflib-4.1.6-9.el7.x86_64                                   3/31
+  Verifying  : libjpeg-turbo-1.2.90-5.el7.x86_64                           4/31
+  Verifying  : libXtst-1.2.2-2.1.el7.x86_64                                5/31
+  Verifying  : freetype-2.4.11-11.el7.x86_64                               6/31
+  Verifying  : 1:java-1.8.0-openjdk-devel-1.8.0.71-2.b15.el7_2.x86_64      7/31
+  Verifying  : python-lxml-3.2.1-4.el7.x86_64                              8/31
+  Verifying  : libxcb-1.11-4.el7.x86_64                                    9/31
+  Verifying  : 2:libpng-1.5.13-7.el7_2.x86_64                             10/31
+  Verifying  : fontpackages-filesystem-1.44-8.el7.noarch                  11/31
+  Verifying  : ttmkfdir-3.0.9-42.el7.x86_64                               12/31
+  Verifying  : libX11-1.6.3-2.el7.x86_64                                  13/31
+  Verifying  : 1:java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64           14/31
+  Verifying  : libXrender-0.9.8-2.1.el7.x86_64                            15/31
+  Verifying  : libX11-common-1.6.3-2.el7.noarch                           16/31
+  Verifying  : xorg-x11-fonts-Type1-7.5-9.el7.noarch                      17/31
+  Verifying  : 1:java-1.8.0-openjdk-headless-1.8.0.71-2.b15.el7_2.x86_6   18/31
+  Verifying  : libxslt-1.1.28-5.el7.x86_64                                19/31
+  Verifying  : libXfont-1.5.1-2.el7.x86_64                                20/31
+  Verifying  : libICE-1.0.9-2.el7.x86_64                                  21/31
+  Verifying  : javapackages-tools-3.4.1-11.el7.noarch                     22/31
+  Verifying  : alsa-lib-1.0.28-2.el7.x86_64                               23/31
+  Verifying  : libXi-1.7.4-2.el7.x86_64                                   24/31
+  Verifying  : libXau-1.0.8-2.1.el7.x86_64                                25/31
+  Verifying  : libSM-1.2.2-2.el7.x86_64                                   26/31
+  Verifying  : libfontenc-1.1.2-3.el7.x86_64                              27/31
+  Verifying  : fontconfig-2.10.95-7.el7.x86_64                            28/31
+  Verifying  : lksctp-tools-1.0.13-3.el7.x86_64                           29/31
+  Verifying  : tzdata-java-2016a-1.el7.noarch                             30/31
+  Verifying  : 1:xorg-x11-font-utils-7.5-20.el7.x86_64                    31/31
+
+Installed:
+  java-1.8.0-openjdk-devel.x86_64 1:1.8.0.71-2.b15.el7_2
+
+Dependency Installed:
+  alsa-lib.x86_64 0:1.0.28-2.el7
+  fontconfig.x86_64 0:2.10.95-7.el7
+  fontpackages-filesystem.noarch 0:1.44-8.el7
+  freetype.x86_64 0:2.4.11-11.el7
+  giflib.x86_64 0:4.1.6-9.el7
+  java-1.8.0-openjdk.x86_64 1:1.8.0.71-2.b15.el7_2
+  java-1.8.0-openjdk-headless.x86_64 1:1.8.0.71-2.b15.el7_2
+  javapackages-tools.noarch 0:3.4.1-11.el7
+  libICE.x86_64 0:1.0.9-2.el7
+  libSM.x86_64 0:1.2.2-2.el7
+  libX11.x86_64 0:1.6.3-2.el7
+  libX11-common.noarch 0:1.6.3-2.el7
+  libXau.x86_64 0:1.0.8-2.1.el7
+  libXext.x86_64 0:1.3.3-3.el7
+  libXfont.x86_64 0:1.5.1-2.el7
+  libXi.x86_64 0:1.7.4-2.el7
+  libXrender.x86_64 0:0.9.8-2.1.el7
+  libXtst.x86_64 0:1.2.2-2.1.el7
+  libfontenc.x86_64 0:1.1.2-3.el7
+  libjpeg-turbo.x86_64 0:1.2.90-5.el7
+  libpng.x86_64 2:1.5.13-7.el7_2
+  libxcb.x86_64 0:1.11-4.el7
+  libxslt.x86_64 0:1.1.28-5.el7
+  lksctp-tools.x86_64 0:1.0.13-3.el7
+  python-javapackages.noarch 0:3.4.1-11.el7
+  python-lxml.x86_64 0:3.2.1-4.el7
+  ttmkfdir.x86_64 0:3.0.9-42.el7
+  tzdata-java.noarch 0:2016a-1.el7
+  xorg-x11-font-utils.x86_64 1:7.5-20.el7
+  xorg-x11-fonts-Type1.noarch 0:7.5-9.el7
+
+Complete!
+ ---> 8c85fc499ad4
+Removing intermediate container dbcadc21ed5b
+Step 4 : ADD ./myfiles/readme.txt /myfiles/
+ ---> 1a2f4b8a4087
+Removing intermediate container ad9e769d37b1
+Successfully built 1a2f4b8a4087
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ docker build -t docker-image1 .
+Sending build context to Docker daemon 3.584 kB
+Step 1 : FROM centos:latest
+ ---> c8a648134623
+Step 2 : MAINTAINER zvikagol
+ ---> Using cache
+ ---> 45fd9ce24a77
+Step 3 : RUN yum -y install java-1.8.0-openjdk-devel.x86_64
+ ---> Using cache
+ ---> 8c85fc499ad4
+Step 4 : ADD ./myfiles/readme.txt /myfiles/
+ ---> Using cache
+ ---> 1a2f4b8a4087
+Successfully built 1a2f4b8a4087
+[ec2-user@ip-172-31-7-210 Dockers]$ docker start -t  docker-image1
+flag provided but not defined: -t
+See 'docker start --help'.
+[ec2-user@ip-172-31-7-210 Dockers]$ docker start --help
+
+Usage:  docker start [OPTIONS] CONTAINER [CONTAINER...]
+
+Start one or more stopped containers
+
+  -a, --attach=false         Attach STDOUT/STDERR and forward signals
+  --help=false               Print usage
+  -i, --interactive=false    Attach container's STDIN
+[ec2-user@ip-172-31-7-210 Dockers]$ docker run docker-image1 /bin/bash
+[ec2-user@ip-172-31-7-210 Dockers]$ docker run -i -t docker-image1 /bin/bash
+[root@d0db578d0e07 /]# ls
+anaconda-post.log  dev  home  lib64       media  myfiles  proc  run   srv  tmp  var
+bin                etc  lib   lost+found  mnt    opt      root  sbin  sys  usr
+[root@d0db578d0e07 /]# cd /myfiles/
+[root@d0db578d0e07 myfiles]# ls
+readme.txt
+[root@d0db578d0e07 myfiles]# cat readme.txt
+Hello World
+[root@d0db578d0e07 myfiles]# exit
+exit
+[ec2-user@ip-172-31-7-210 Dockers]$ docker build -t docker-image1 .^C
+[ec2-user@ip-172-31-7-210 Dockers]$ cd ..
+[ec2-user@ip-172-31-7-210 ~]$ ls
+Dockers  example1.yml  Projects
+[ec2-user@ip-172-31-7-210 ~]$ docker build -t docker-image1 ./Dockers/
+Sending build context to Docker daemon 3.584 kB
+Step 1 : FROM centos:latest
+ ---> c8a648134623
+Step 2 : MAINTAINER zvikagol
+ ---> Using cache
+ ---> 45fd9ce24a77
+Step 3 : RUN yum -y install java-1.8.0-openjdk-devel.x86_64
+ ---> Using cache
+ ---> 8c85fc499ad4
+Step 4 : ADD ./myfiles/readme.txt /myfiles/
+ ---> Using cache
+ ---> 1a2f4b8a4087
+Successfully built 1a2f4b8a4087
+[ec2-user@ip-172-31-7-210 ~]$ cd Dockers/
+[ec2-user@ip-172-31-7-210 Dockers]$ docker build -t docker-image1 .^C
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ docker build -t docker-image1 .^C
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ cd ..
+[ec2-user@ip-172-31-7-210 ~]$ ls
+Dockers  example1.yml  Projects
+[ec2-user@ip-172-31-7-210 ~]$ ifconfig -a
+docker0   Link encap:Ethernet  HWaddr 02:42:AC:06:A6:4A
+          inet addr:172.17.0.1  Bcast:0.0.0.0  Mask:255.255.0.0
+          inet6 addr: fe80::42:acff:fe06:a64a/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:9001  Metric:1
+          RX packets:5606 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5997 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:333904 (326.0 KiB)  TX bytes:80316800 (76.5 MiB)
+
+eth0      Link encap:Ethernet  HWaddr 06:9C:08:1B:40:6B
+          inet addr:172.31.7.210  Bcast:172.31.15.255  Mask:255.255.240.0
+          inet6 addr: fe80::49c:8ff:fe1b:406b/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:9001  Metric:1
+          RX packets:183944 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:23880 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:250875141 (239.2 MiB)  TX bytes:2436439 (2.3 MiB)
+
+lo        Link encap:Local Loopback
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:5 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:1868 (1.8 KiB)  TX bytes:1868 (1.8 KiB)
+
+veth5e05025 Link encap:Ethernet  HWaddr D2:54:49:E5:7F:40
+          inet6 addr: fe80::d054:49ff:fee5:7f40/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:9001  Metric:1
+          RX packets:1731 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1717 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:129757 (126.7 KiB)  TX bytes:23616096 (22.5 MiB)
+
+[ec2-user@ip-172-31-7-210 ~]$
+[ec2-user@ip-172-31-7-210 ~]$
+[ec2-user@ip-172-31-7-210 ~]$
+[ec2-user@ip-172-31-7-210 ~]$
+[ec2-user@ip-172-31-7-210 ~]$
+[ec2-user@ip-172-31-7-210 ~]$ ls
+Dockers  example1.yml  Projects
+[ec2-user@ip-172-31-7-210 ~]$ cd Dockers/
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ docker image
+docker: 'image' is not a docker command.
+See 'docker --help'.
+[ec2-user@ip-172-31-7-210 Dockers]$ docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE
+yakirimagel         latest              b613cc082523        32 seconds ago      502.9 MB
+docker-image1       latest              1a2f4b8a4087        10 minutes ago      444.4 MB
+centos              latest              c8a648134623        7 weeks ago         196.6 MB
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ cd Dockerfile
+-bash: cd: Dockerfile: Not a directory
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ cd Dockerfile
+-bash: cd: Dockerfile: Not a directory
+[ec2-user@ip-172-31-7-210 Dockers]$ ls
+Dockerfile  myfiles
+[ec2-user@ip-172-31-7-210 Dockers]$ docker run -i -t docker-image1 /bin/bash
+[root@e57da4039155 /]# java
+Usage: java [-options] class [args...]
+           (to execute a class)
+   or  java [-options] -jar jarfile [args...]
+           (to execute a jar file)
+where options include:
+    -d32          use a 32-bit data model if available
+    -d64          use a 64-bit data model if available
+    -server       to select the "server" VM
+                  The default VM is server.
+
+    -cp <class search path of directories and zip/jar files>
+    -classpath <class search path of directories and zip/jar files>
+                  A : separated list of directories, JAR archives,
+                  and ZIP archives to search for class files.
+    -D<name>=<value>
+                  set a system property
+    -verbose:[class|gc|jni]
+                  enable verbose output
+    -version      print product version and exit
+    -version:<value>
+                  Warning: this feature is deprecated and will be removed
+                  in a future release.
+                  require the specified version to run
+    -showversion  print product version and continue
+    -jre-restrict-search | -no-jre-restrict-search
+                  Warning: this feature is deprecated and will be removed
+                  in a future release.
+                  include/exclude user private JREs in the version search
+    -? -help      print this help message
+    -X            print help on non-standard options
+    -ea[:<packagename>...|:<classname>]
+    -enableassertions[:<packagename>...|:<classname>]
+                  enable assertions with specified granularity
+    -da[:<packagename>...|:<classname>]
+    -disableassertions[:<packagename>...|:<classname>]
+                  disable assertions with specified granularity
+    -esa | -enablesystemassertions
+                  enable system assertions
+    -dsa | -disablesystemassertions
+                  disable system assertions
+    -agentlib:<libname>[=<options>]
+                  load native agent library <libname>, e.g. -agentlib:hprof
+                  see also, -agentlib:jdwp=help and -agentlib:hprof=help
+    -agentpath:<pathname>[=<options>]
+                  load native agent library by full pathname
+    -javaagent:<jarpath>[=<options>]
+                  load Java programming language agent, see java.lang.instrument
+    -splash:<imagepath>
+                  show splash screen with specified image
+See http://www.oracle.com/technetwork/java/javase/documentation/index.html for more details.
+[root@e57da4039155 /]# java -version
+openjdk version "1.8.0_71"
+OpenJDK Runtime Environment (build 1.8.0_71-b15)
+OpenJDK 64-Bit Server VM (build 25.71-b15, mixed mode)
+[root@e57da4039155 /]# cd /usr/
+bin/     etc/     games/   include/ lib/     lib64/   libexec/ local/   sbin/    share/   src/     tmp/
+[root@e57da4039155 /]# cd /usr/
+bin/     etc/     games/   include/ lib/     lib64/   libexec/ local/   sbin/    share/   src/     tmp/
+[root@e57da4039155 /]# cd /usr/local/
+bin/     etc/     games/   include/ lib/     lib64/   libexec/ sbin/    share/   src/
+[root@e57da4039155 /]# cd /usr/local/
+bin/     etc/     games/   include/ lib/     lib64/   libexec/ sbin/    share/   src/
+[root@e57da4039155 /]# cd /usr/local/
+bin/     etc/     games/   include/ lib/     lib64/   libexec/ sbin/    share/   src/
+[root@e57da4039155 /]# find / -name java
+/etc/alternatives/java
+/etc/pki/ca-trust/extracted/java
+/etc/pki/java
+/etc/java
+/usr/bin/java
+/usr/lib/java
+/usr/lib/jvm/java
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/bin/java
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/bin/java
+/usr/lib/jvm-exports/java
+/usr/share/java
+/var/lib/alternatives/java
+[root@e57da4039155 /]# find / -name javac
+/etc/alternatives/javac
+/usr/bin/javac
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/bin/javac
+/var/lib/alternatives/javac
+[root@e57da4039155 /]# cd /usr/lib
+lib/     lib64/   libexec/
+[root@e57da4039155 /]# cd /usr/lib
+lib/     lib64/   libexec/
+[root@e57da4039155 /]# cd /usr/lib/
+binfmt.d/       java/           java-1.8.0/     jvm-exports/    modprobe.d/     rpm/            tmpfiles.d/
+debug/          java-1.5.0/     java-ext/       jvm-private/    modules/        sse2/           udev/
+dracut/         java-1.6.0/     jvm/            kernel/         modules-load.d/ sysctl.d/       yum-plugins/
+games/          java-1.7.0/     jvm-commmon/    locale/         python2.7/      systemd/
+[root@e57da4039155 /]# cd /usr/lib/j
+java/        java-1.6.0/  java-1.8.0/  jvm/         jvm-exports/
+java-1.5.0/  java-1.7.0/  java-ext/    jvm-commmon/ jvm-private/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java
+java/                                           java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/
+java-1.8.0/                                     java-openjdk/
+java-1.8.0-openjdk/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java
+java/                                           java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/
+java-1.8.0/                                     java-openjdk/
+java-1.8.0-openjdk/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java-1.8.0
+java-1.8.0/                                     java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/
+java-1.8.0-openjdk/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java-1.8.0-openjdk
+java-1.8.0-openjdk/                             java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java-1.8.0-openjdk
+java-1.8.0-openjdk/                             java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java-1.8.0-openjdk
+java-1.8.0-openjdk/                             java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/
+[root@e57da4039155 /]# cd /usr/lib/jvm/java-1.8.0-openjdk
+[root@e57da4039155 java-1.8.0-openjdk]# ls
+bin  include  jre  lib  tapset
+[root@e57da4039155 java-1.8.0-openjdk]# exit
+exit
+[ec2-user@ip-172-31-7-210 Dockers]$
+

@@ -1,0 +1,6 @@
+- hosts: localhost
+  vars: 
+    artifactory_host: 172.31.0.42
+  tasks:
+  - name: build settings.xml from template file
+    template: src=~/xura/template-exe/settings.template dest=~/xura/template-exe/settings.xml
